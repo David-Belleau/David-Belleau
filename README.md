@@ -4,7 +4,7 @@ I'm David from France. I specialize in front-end development.
 
 Actually :
 
-- 🔭 I'm currently training on React
+- 🔭 I learn Typescript
 - 👯 I create value for people
 - ⚡ Fun fact : I practice Krav maga
 - 📫 How to reach me : Linkedin
