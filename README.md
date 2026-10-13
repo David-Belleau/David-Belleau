@@ -6,12 +6,7 @@ Actually :
 
 - 🔭 I learn Next JS
 - 👯 I create value for people
-- 📫 How to reach me : Linkedin
 
-### Connect with me
-
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/david-belleau/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/david-belleau/#gh-dark-mode-only)
 
 ### Languages and Tools
           
