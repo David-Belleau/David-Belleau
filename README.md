@@ -10,7 +10,7 @@ Actually :
 
 ### Languages and Tools
           
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" style="padding-right:0.62rem;" align="left" width="26px"/>][tailwind]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" style="padding-right:0.62rem;" align="left" width="26px"/>][tailwind]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" style="padding-right:0.62rem;" align="left" width="26px"/>][typescript]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" style="padding-right:0.62rem;" align="left" width="26px"/>][jest]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="padding-right:0.62rem;" align="left" width="26px"/>][react]
